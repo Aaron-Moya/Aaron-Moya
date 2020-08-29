@@ -1,6 +1,7 @@
 <img align='left' src='https://github.com/Aaron-Moya/Aaron-Moya/blob/master/LinkFront_Beat.gif' width='25%' heigth='20%'>  
 <img align='right' src='https://github.com/Aaron-Moya/Aaron-Moya/blob/master/zelda.gif' width='25%' heigth='30%'> 
 
+<p align="center">
 ### Hola!, Me llamo Aarón 👋
 
 ## Ahora mismo soy un estudiante!
@@ -8,6 +9,8 @@
 - 🔭 Actualmente estoy haciendo cursos en Udemy!
 - 🌱 Estoy aprendiendo de todo 🤣
 - 🥅 Metas de 2020: Sacarme una FP Superior!
+
+</p>
 
 <br />
 <br />
