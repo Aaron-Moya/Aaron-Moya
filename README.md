@@ -1,5 +1,5 @@
-<img align='left' src='https://github.com/Aaron-Moya/Aaron-Moya/blob/master/LinkFront_Beat.gif' width='20%'>  
-<img align='right' src='https://github.com/Aaron-Moya/Aaron-Moya/blob/master/LinkFront_Beat.gif' width='20%'> 
+<img align='left' src='https://github.com/Aaron-Moya/Aaron-Moya/blob/master/LinkFront_Beat.gif' width='35%'>  
+<img align='right' src='https://github.com/Aaron-Moya/Aaron-Moya/blob/master/zelda.gif' width='35%'> 
 
 ### Hola!, Me llamo Aarón 👋
 
