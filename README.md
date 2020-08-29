@@ -5,11 +5,9 @@
 
 ## Ahora mismo soy un estudiante!
 
-<p align="center">
-- 🔭 Actualmente estoy haciendo cursos en Udemy! <br />
-- 🌱 Estoy aprendiendo de todo 🤣 <br />
-- 🥅 Metas de 2020: Sacarme una FP Superior! <br />
-</p>
+- 🔭 Actualmente estoy haciendo cursos en Udemy! 
+- 🌱 Estoy aprendiendo de todo 🤣
+- 🥅 Metas de 2020: Sacarme una FP Superior! 
 
 <br />
 <br />
