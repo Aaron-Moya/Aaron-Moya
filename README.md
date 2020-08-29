@@ -1,3 +1,6 @@
+<img align='left' src='https://github.com/Aaron-Moya/Aaron-Moya/blob/master/LinkFront_Beat.gif' width='20%'>  
+<img align='right' src='https://github.com/Aaron-Moya/Aaron-Moya/blob/master/LinkFront_Beat.gif' width='20%'> 
+
 ### Hola!, Me llamo Aarón 👋
 
 ## Ahora mismo soy un estudiante!
