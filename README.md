@@ -1,5 +1,5 @@
 <img align='left' src='https://github.com/Aaron-Moya/Aaron-Moya/blob/master/LinkFront_Beat.gif' width='30%' heigth='20%'>  
-<img align='right' src='https://github.com/Aaron-Moya/Aaron-Moya/blob/master/zelda.gif' width='30%' heigth='20%'> 
+<img align='right' src='https://github.com/Aaron-Moya/Aaron-Moya/blob/master/zelda.gif' width='30%' heigth='25%'> 
 
 ### Hola!, Me llamo Aarón 👋
 
@@ -11,7 +11,7 @@
 
 <br />
 <br />
-
+<br />
 
 ### Reproduciendo Spotify 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Playing" width="350" />](https://open.spotify.com/user/drakewadefaing)
