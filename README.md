@@ -35,11 +35,4 @@
 
 ---
 
-<details>
-  <summary>:zap: Estadísticas de Github</summary>
-
-  <img align="left" alt="stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Aaron-Moya&show_icons=true&hide_border=true" />
-
-</details>
-
 [linkedin]: https://www.linkedin.com/in/aar%C3%B3n-moya-arques-a040571a8/
