@@ -1,5 +1,4 @@
 <img align='left' src='https://media.tenor.com/DyR1nFraGRgAAAAC/digimon-agumon.gif' width='25%' heigth='20%'>  
-<img align='right' src='https://github.com/Aaron-Moya/Aaron-Moya/blob/master/LinkFront_Beat.gif' width='25%' heigth='27%'> 
 
 # Hola!, Soy Aarón 👋
 
