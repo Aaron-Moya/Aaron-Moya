@@ -15,6 +15,7 @@
 ### Redes Sociales:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 <br />
@@ -35,3 +36,4 @@
 ---
 
 [linkedin]: https://www.linkedin.com/in/aar%C3%B3n-moya-arques-a040571a8/
+[twitter]: https://twitter.com/AaronElDev
