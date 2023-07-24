@@ -1,6 +1,6 @@
 <img align='left' src='https://github.com/Aaron-Moya/Aaron-Moya/blob/master/digimon-agumon.gif' width='25%' heigth='20%'>  
 
-# Hola!, Soy Aarón 👋
+#  ¡Hola, Soy Aarón! 👋
 
 <br />
 <br />
