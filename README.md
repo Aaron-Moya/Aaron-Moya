@@ -2,8 +2,6 @@
 
 # Hola!, Soy Aarón 👋
 
-#### 🌱 Ahora mismo estoy estudiando Desarrollo de aplicaciones multiplataforma (DAM) 🌱 
-
 <br />
 <br />
 <br />
